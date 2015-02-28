@@ -1,0 +1,1 @@
+<img src="${ ui.resourceLink("zlconsultnote", "images/Supplementation.png") }"/>

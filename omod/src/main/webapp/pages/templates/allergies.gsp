@@ -1,0 +1,1 @@
+<img src="${ ui.resourceLink("zlconsultnote", "images/Allergies form.png") }" width="800"/>
